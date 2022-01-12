@@ -1,7 +1,3 @@
-# GitPractice
-
-
-
 # Heading1
 
 ## Heading2
