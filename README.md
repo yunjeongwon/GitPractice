@@ -160,3 +160,14 @@ or
 
 
 
+git 기본
+
+```bash
+$ git init
+$ git remote add origin https://github.com/****
+
+$ git add .
+$ git commit -m "커밋 이름"
+$ git push origin master
+$ git pull
+```
